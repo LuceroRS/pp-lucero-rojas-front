@@ -1,0 +1,31 @@
+
+.alinear{
+    display: flex;
+    align-items: center
+}
+.agregar-usuario {
+    background-color: #eaebff;
+    height: 50%;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.base-datos{
+    font-weight: bold;
+}
+
+.mensaje-tabla{
+    color: red;
+}
+
+.iconos{
+    padding-left: 15px;
+    padding-right: 0px;
+    padding-top: 5px;
+}
+.buscar{
+    padding-top: 5px;
+    padding-left: 0;
+}
